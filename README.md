@@ -1,5 +1,5 @@
 # d3d11boilerplate
-Visual Studio Solution for a basic D3D11 application.
+Files to generate a basic D3D11 application.
 
 Alt-About
 ======
